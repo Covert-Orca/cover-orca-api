@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Covert-Orca.domain/1.0.0": {
+        "runtime": {
+          "Covert-Orca.domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Covert-Orca.domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

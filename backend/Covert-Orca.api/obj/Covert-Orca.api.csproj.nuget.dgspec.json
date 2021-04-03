@@ -1,0 +1,125 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/wilsonpan/Development/repos/covert-orca-api/backend/Covert-Orca.api/Covert-Orca.api.csproj": {}
+  },
+  "projects": {
+    "/Users/wilsonpan/Development/repos/covert-orca-api/backend/Covert-Orca.api/Covert-Orca.api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/wilsonpan/Development/repos/covert-orca-api/backend/Covert-Orca.api/Covert-Orca.api.csproj",
+        "projectName": "Covert-Orca.api",
+        "projectPath": "/Users/wilsonpan/Development/repos/covert-orca-api/backend/Covert-Orca.api/Covert-Orca.api.csproj",
+        "packagesPath": "/Users/wilsonpan/.nuget/packages/",
+        "outputPath": "/Users/wilsonpan/Development/repos/covert-orca-api/backend/Covert-Orca.api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/wilsonpan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/wilsonpan/Development/repos/covert-orca-api/backend/Covert-Orca.domain/Covert-Orca.domain.csproj": {
+                "projectPath": "/Users/wilsonpan/Development/repos/covert-orca-api/backend/Covert-Orca.domain/Covert-Orca.domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/wilsonpan/Development/repos/covert-orca-api/backend/Covert-Orca.domain/Covert-Orca.domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/wilsonpan/Development/repos/covert-orca-api/backend/Covert-Orca.domain/Covert-Orca.domain.csproj",
+        "projectName": "Covert-Orca.domain",
+        "projectPath": "/Users/wilsonpan/Development/repos/covert-orca-api/backend/Covert-Orca.domain/Covert-Orca.domain.csproj",
+        "packagesPath": "/Users/wilsonpan/.nuget/packages/",
+        "outputPath": "/Users/wilsonpan/Development/repos/covert-orca-api/backend/Covert-Orca.domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/wilsonpan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
