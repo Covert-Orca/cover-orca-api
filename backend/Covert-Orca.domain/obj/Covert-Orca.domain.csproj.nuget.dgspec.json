@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wilsonpan/Development/repos/covert-orca-api/backend/Covert-Orca.domain/Covert-Orca.domain.csproj": {}
+    "/Users/tylerquedens/repos/covert-orca-api/backend/Covert-Orca.domain/Covert-Orca.domain.csproj": {}
   },
   "projects": {
-    "/Users/wilsonpan/Development/repos/covert-orca-api/backend/Covert-Orca.domain/Covert-Orca.domain.csproj": {
+    "/Users/tylerquedens/repos/covert-orca-api/backend/Covert-Orca.domain/Covert-Orca.domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wilsonpan/Development/repos/covert-orca-api/backend/Covert-Orca.domain/Covert-Orca.domain.csproj",
+        "projectUniqueName": "/Users/tylerquedens/repos/covert-orca-api/backend/Covert-Orca.domain/Covert-Orca.domain.csproj",
         "projectName": "Covert-Orca.domain",
-        "projectPath": "/Users/wilsonpan/Development/repos/covert-orca-api/backend/Covert-Orca.domain/Covert-Orca.domain.csproj",
-        "packagesPath": "/Users/wilsonpan/.nuget/packages/",
-        "outputPath": "/Users/wilsonpan/Development/repos/covert-orca-api/backend/Covert-Orca.domain/obj/",
+        "projectPath": "/Users/tylerquedens/repos/covert-orca-api/backend/Covert-Orca.domain/Covert-Orca.domain.csproj",
+        "packagesPath": "/Users/tylerquedens/.nuget/packages/",
+        "outputPath": "/Users/tylerquedens/repos/covert-orca-api/backend/Covert-Orca.domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/wilsonpan/.nuget/NuGet/NuGet.Config"
+          "/Users/tylerquedens/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
         }
       }
     }
