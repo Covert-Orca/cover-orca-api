@@ -10,3 +10,15 @@
 /Users/wilsonpan/Development/repos/covert-orca-api/backend/Covert-Orca.domain/obj/Debug/net5.0/Covert-Orca.domain.dll
 /Users/wilsonpan/Development/repos/covert-orca-api/backend/Covert-Orca.domain/obj/Debug/net5.0/ref/Covert-Orca.domain.dll
 /Users/wilsonpan/Development/repos/covert-orca-api/backend/Covert-Orca.domain/obj/Debug/net5.0/Covert-Orca.domain.pdb
+/Users/tylerquedens/repos/covert-orca-api/backend/Covert-Orca.domain/obj/Debug/net5.0/Covert-Orca.domain.csprojAssemblyReference.cache
+/Users/tylerquedens/repos/covert-orca-api/backend/Covert-Orca.domain/obj/Debug/net5.0/Covert-Orca.domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerquedens/repos/covert-orca-api/backend/Covert-Orca.domain/obj/Debug/net5.0/Covert-Orca.domain.AssemblyInfoInputs.cache
+/Users/tylerquedens/repos/covert-orca-api/backend/Covert-Orca.domain/obj/Debug/net5.0/Covert-Orca.domain.AssemblyInfo.cs
+/Users/tylerquedens/repos/covert-orca-api/backend/Covert-Orca.domain/obj/Debug/net5.0/Covert-Orca.domain.csproj.CoreCompileInputs.cache
+/Users/tylerquedens/repos/covert-orca-api/backend/Covert-Orca.domain/obj/Debug/net5.0/Covert-Orca.domain.dll
+/Users/tylerquedens/repos/covert-orca-api/backend/Covert-Orca.domain/obj/Debug/net5.0/ref/Covert-Orca.domain.dll
+/Users/tylerquedens/repos/covert-orca-api/backend/Covert-Orca.domain/obj/Debug/net5.0/Covert-Orca.domain.pdb
+/Users/tylerquedens/repos/covert-orca-api/backend/Covert-Orca.domain/bin/Debug/net5.0/Covert-Orca.domain.deps.json
+/Users/tylerquedens/repos/covert-orca-api/backend/Covert-Orca.domain/bin/Debug/net5.0/Covert-Orca.domain.dll
+/Users/tylerquedens/repos/covert-orca-api/backend/Covert-Orca.domain/bin/Debug/net5.0/ref/Covert-Orca.domain.dll
+/Users/tylerquedens/repos/covert-orca-api/backend/Covert-Orca.domain/bin/Debug/net5.0/Covert-Orca.domain.pdb
