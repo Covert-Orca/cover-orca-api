@@ -1,4 +1,4 @@
-﻿using Covert_Orca.Domain.Catalog;
+﻿using Covert_Orca.domain.Catalog;
 using Microsoft.EntityFrameworkCore;
 
 namespace Covert_Orca.Data
