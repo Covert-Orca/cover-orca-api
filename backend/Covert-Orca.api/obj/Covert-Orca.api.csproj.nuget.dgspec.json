@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.api\\Covert-Orca.api.csproj": {}
+    "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\covert-orca.api\\Covert-Orca.api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.api\\Covert-Orca.api.csproj": {
+    "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\covert-orca.api\\Covert-Orca.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.api\\Covert-Orca.api.csproj",
+        "projectUniqueName": "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\covert-orca.api\\Covert-Orca.api.csproj",
         "projectName": "Covert-Orca.api",
-        "projectPath": "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.api\\Covert-Orca.api.csproj",
+        "projectPath": "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\covert-orca.api\\Covert-Orca.api.csproj",
         "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.api\\obj\\",
+        "outputPath": "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\covert-orca.api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tom\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -45,6 +45,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
