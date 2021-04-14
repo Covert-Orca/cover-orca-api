@@ -10,5 +10,7 @@ namespace Covert_Orca.Data
             { }
 
             public DbSet<Item> Items { get; set;}
+
+            public DbSet<Order> Orders { get; set; }
     }
 }
