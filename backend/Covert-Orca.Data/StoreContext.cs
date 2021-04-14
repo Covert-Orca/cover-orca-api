@@ -1,7 +1,7 @@
-﻿using Covert.Orca.Domain.Catalog;
+﻿using Covert_Orca.Domain.Catalog;
 using Microsoft.EntityFrameworkCore;
 
-namespace Covert.Orca.Data
+namespace Covert_Orca.Data
 {
     public class StoreContext : DbContext
     {

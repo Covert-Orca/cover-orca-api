@@ -26,6 +26,9 @@ namespace Covert_Orca.api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddDbContext<StoreContext>(opt => 
+                opt.UseSqlite(Configuration.GetConnectionString("LocalDb"),
+                    b => b.MigrationsAssembly("Covert_Orca.Api")));
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
