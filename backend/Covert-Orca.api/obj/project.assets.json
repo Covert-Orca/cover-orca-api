@@ -76,6 +76,19 @@
           "Microsoft.AspNetCore.App"
         ]
       },
+      "Covert-Orca.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Covert-Orca.domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Covert-Orca.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Covert-Orca.Data.dll": {}
+        }
+      },
       "Covert-Orca.domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -196,6 +209,11 @@
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
     },
+    "Covert-Orca.Data/1.0.0": {
+      "type": "project",
+      "path": "../Covert-Orca.Data/Covert-Orca.Data.csproj",
+      "msbuildProject": "../Covert-Orca.Data/Covert-Orca.Data.csproj"
+    },
     "Covert-Orca.domain/1.0.0": {
       "type": "project",
       "path": "../Covert-Orca.domain/Covert-Orca.domain.csproj",
@@ -204,24 +222,25 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Covert-Orca.Data >= 1.0.0",
       "Covert-Orca.domain >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
   "packageFolders": {
-    "/Users/tylerquedens/.nuget/packages/": {}
+    "C:\\Users\\Tom\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tylerquedens/repos/covert-orca-api/backend/Covert-Orca.api/Covert-Orca.api.csproj",
+      "projectUniqueName": "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.api\\Covert-Orca.api.csproj",
       "projectName": "Covert-Orca.api",
-      "projectPath": "/Users/tylerquedens/repos/covert-orca-api/backend/Covert-Orca.api/Covert-Orca.api.csproj",
-      "packagesPath": "/Users/tylerquedens/.nuget/packages/",
-      "outputPath": "/Users/tylerquedens/repos/covert-orca-api/backend/Covert-Orca.api/obj/",
+      "projectPath": "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.api\\Covert-Orca.api.csproj",
+      "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/tylerquedens/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Tom\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -233,8 +252,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/tylerquedens/repos/covert-orca-api/backend/Covert-Orca.domain/Covert-Orca.domain.csproj": {
-              "projectPath": "/Users/tylerquedens/repos/covert-orca-api/backend/Covert-Orca.domain/Covert-Orca.domain.csproj"
+            "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.Data\\Covert-Orca.Data.csproj": {
+              "projectPath": "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.Data\\Covert-Orca.Data.csproj"
+            },
+            "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.domain\\Covert-Orca.domain.csproj": {
+              "projectPath": "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.domain\\Covert-Orca.domain.csproj"
             }
           }
         }
@@ -272,7 +294,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -22,3 +22,15 @@
 /Users/tylerquedens/repos/covert-orca-api/backend/Covert-Orca.domain/bin/Debug/net5.0/Covert-Orca.domain.dll
 /Users/tylerquedens/repos/covert-orca-api/backend/Covert-Orca.domain/bin/Debug/net5.0/ref/Covert-Orca.domain.dll
 /Users/tylerquedens/repos/covert-orca-api/backend/Covert-Orca.domain/bin/Debug/net5.0/Covert-Orca.domain.pdb
+C:\Users\Tom\Desktop\repos\covert-orca-api\backend\Covert-Orca.domain\bin\Debug\net5.0\Covert-Orca.domain.deps.json
+C:\Users\Tom\Desktop\repos\covert-orca-api\backend\Covert-Orca.domain\bin\Debug\net5.0\Covert-Orca.domain.dll
+C:\Users\Tom\Desktop\repos\covert-orca-api\backend\Covert-Orca.domain\bin\Debug\net5.0\ref\Covert-Orca.domain.dll
+C:\Users\Tom\Desktop\repos\covert-orca-api\backend\Covert-Orca.domain\bin\Debug\net5.0\Covert-Orca.domain.pdb
+C:\Users\Tom\Desktop\repos\covert-orca-api\backend\Covert-Orca.domain\obj\Debug\net5.0\Covert-Orca.domain.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\repos\covert-orca-api\backend\Covert-Orca.domain\obj\Debug\net5.0\Covert-Orca.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom\Desktop\repos\covert-orca-api\backend\Covert-Orca.domain\obj\Debug\net5.0\Covert-Orca.domain.AssemblyInfoInputs.cache
+C:\Users\Tom\Desktop\repos\covert-orca-api\backend\Covert-Orca.domain\obj\Debug\net5.0\Covert-Orca.domain.AssemblyInfo.cs
+C:\Users\Tom\Desktop\repos\covert-orca-api\backend\Covert-Orca.domain\obj\Debug\net5.0\Covert-Orca.domain.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\repos\covert-orca-api\backend\Covert-Orca.domain\obj\Debug\net5.0\Covert-Orca.domain.dll
+C:\Users\Tom\Desktop\repos\covert-orca-api\backend\Covert-Orca.domain\obj\Debug\net5.0\ref\Covert-Orca.domain.dll
+C:\Users\Tom\Desktop\repos\covert-orca-api\backend\Covert-Orca.domain\obj\Debug\net5.0\Covert-Orca.domain.pdb

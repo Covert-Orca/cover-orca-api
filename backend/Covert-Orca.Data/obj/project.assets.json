@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Covert-Orca.domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Covert-Orca.domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Covert-Orca.domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Covert-Orca.domain/1.0.0": {
+      "type": "project",
+      "path": "../Covert-Orca.domain/Covert-Orca.domain.csproj",
+      "msbuildProject": "../Covert-Orca.domain/Covert-Orca.domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Covert-Orca.domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Tom\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.Data\\Covert-Orca.Data.csproj",
+      "projectName": "Covert-Orca.Data",
+      "projectPath": "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.Data\\Covert-Orca.Data.csproj",
+      "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.Data\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Tom\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.domain\\Covert-Orca.domain.csproj": {
+              "projectPath": "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.domain\\Covert-Orca.domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

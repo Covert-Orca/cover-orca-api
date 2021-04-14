@@ -11,6 +11,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Covert-Orca.domain\Covert-Orca.domain.csproj" />
+    <ProjectReference Include="..\Covert-Orca.Data\Covert-Orca.Data.csproj" />
   </ItemGroup>
 
 </Project>
