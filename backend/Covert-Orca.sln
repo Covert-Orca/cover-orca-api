@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covert-Orca.api", "Covert-O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covert-Orca.domain", "Covert-Orca.domain\Covert-Orca.domain.csproj", "{31C95A75-C173-40BD-824E-D3CD8E861995}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covert-Orca-Api.Domain.Tests", "covert-orca-api.Domain.Tests\Covert-Orca-Api.Domain.Tests.csproj", "{02AA909E-096B-46C3-ABCB-FA12E8D36000}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{31C95A75-C173-40BD-824E-D3CD8E861995}.Release|x64.Build.0 = Release|Any CPU
 		{31C95A75-C173-40BD-824E-D3CD8E861995}.Release|x86.ActiveCfg = Release|Any CPU
 		{31C95A75-C173-40BD-824E-D3CD8E861995}.Release|x86.Build.0 = Release|Any CPU
+		{02AA909E-096B-46C3-ABCB-FA12E8D36000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02AA909E-096B-46C3-ABCB-FA12E8D36000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02AA909E-096B-46C3-ABCB-FA12E8D36000}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{02AA909E-096B-46C3-ABCB-FA12E8D36000}.Debug|x64.Build.0 = Debug|Any CPU
+		{02AA909E-096B-46C3-ABCB-FA12E8D36000}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{02AA909E-096B-46C3-ABCB-FA12E8D36000}.Debug|x86.Build.0 = Debug|Any CPU
+		{02AA909E-096B-46C3-ABCB-FA12E8D36000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02AA909E-096B-46C3-ABCB-FA12E8D36000}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02AA909E-096B-46C3-ABCB-FA12E8D36000}.Release|x64.ActiveCfg = Release|Any CPU
+		{02AA909E-096B-46C3-ABCB-FA12E8D36000}.Release|x64.Build.0 = Release|Any CPU
+		{02AA909E-096B-46C3-ABCB-FA12E8D36000}.Release|x86.ActiveCfg = Release|Any CPU
+		{02AA909E-096B-46C3-ABCB-FA12E8D36000}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

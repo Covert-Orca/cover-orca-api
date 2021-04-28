@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YXisS7fquQ2RxgLlK6kUvOx+EMNGg6+3dYVTtoJHfDwFfNQqsluUgxF+9XOblP/t7+EVxINsIKcVlE7fe6yzDg==",
+  "dgSpecHash": "p2bljeETQvlvvzt+q23bA1Av+bmA7/ptH7Z4bOBGToSpPvPGqfY3EsZP7NctQ4sAkswAeB7Sv+tG5nKkSQbGLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\covert-orca.data\\Covert-Orca.Data.csproj",
+  "projectFilePath": "c:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.Data\\Covert-Orca.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tom\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.0-preview.3.21201.2\\microsoft.data.sqlite.core.6.0.0-preview.3.21201.2.nupkg.sha512",
     "C:\\Users\\Tom\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0-preview.3.21201.2\\microsoft.entityframeworkcore.6.0.0-preview.3.21201.2.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.domain\\Covert-Orca.domain.csproj": {}
+    "c:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.domain\\Covert-Orca.domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.domain\\Covert-Orca.domain.csproj": {
+    "c:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.domain\\Covert-Orca.domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.domain\\Covert-Orca.domain.csproj",
+        "projectUniqueName": "c:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.domain\\Covert-Orca.domain.csproj",
         "projectName": "Covert-Orca.domain",
-        "projectPath": "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.domain\\Covert-Orca.domain.csproj",
+        "projectPath": "c:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.domain\\Covert-Orca.domain.csproj",
         "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.domain\\obj\\",
+        "outputPath": "c:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tom\\AppData\\Roaming\\NuGet\\NuGet.Config"

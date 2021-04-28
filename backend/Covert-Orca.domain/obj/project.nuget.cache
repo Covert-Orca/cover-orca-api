@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5EcErAzIQUSwjHIdKymS4AkTcWIE4tqWT4DLjhYx9/lgGuk5BpfissNG3lIwlsahrbcVI0kQ/veTNAB7NWFvlA==",
+  "dgSpecHash": "lGSvbs+FLl2crBbX6KUmXVqhgvLXsA2KsE63cOn3PrV1WLYYFxq7wMQS/IhnUi+5DAmZ0Jo61W4PmgwmlUar5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.domain\\Covert-Orca.domain.csproj",
+  "projectFilePath": "c:\\Users\\Tom\\Desktop\\repos\\covert-orca-api\\backend\\Covert-Orca.domain\\Covert-Orca.domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
