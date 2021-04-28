@@ -21,7 +21,7 @@ namespace covert_orca_api.Domain.Tests
         }
 
         public void Can_Create_Add_Rating()
-        {
+        { 
             //Arrange
             var item = new Item("Name", "Description", "Brand", 10.00m);
             var rating = new Rating(5, "Name", "Review");
