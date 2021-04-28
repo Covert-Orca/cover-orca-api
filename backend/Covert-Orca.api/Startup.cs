@@ -30,6 +30,13 @@ namespace Covert_Orca.api
                 opt.UseSqlite(Configuration.GetConnectionString("LocalDb"),
                     b => b.MigrationsAssembly("Covert_Orca.Api")));
 
+            services.AddCors(options =>
+            {
+                options.AddDefaultPolicy(builder => 
+                {
+                    builder.WithOrigins("*");
+                });
+            });
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
@@ -57,6 +64,8 @@ namespace Covert_Orca.api
             {
                 endpoints.MapControllers();
             });
+
+            app.UseCors();
         }
     }
 }

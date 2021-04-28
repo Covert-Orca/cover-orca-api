@@ -10,10 +10,11 @@ namespace Covert_Orca.domain.Catalog
         public string Name { get; set; }
         public string Description { get; set; }
         public string Brand { get; set; }
+        public string ImageUrl { get; set; }
         public decimal Price { get; set; }
         public List<Rating> Ratings { get; set; }
 
-        public Item(string name, string description, string brand, decimal price)
+        public Item(string name, string description, string brand, string imageUrl, decimal price)
         {
             if (string.IsNullOrEmpty(name))
             {
@@ -30,6 +31,11 @@ namespace Covert_Orca.domain.Catalog
                 throw new ArgumentException("Item brand cannot be null.");
             }
 
+            if (string.IsNullOrEmpty(imageUrl))
+            {
+                throw new ArgumentException("Image path cannot be null");
+            }
+
             if (price < 0.00m || price > 1000.00m)
             {
                 throw new ArgumentException("Item price must be a positive amount less than $1000.00");
@@ -38,6 +44,7 @@ namespace Covert_Orca.domain.Catalog
             this.Name = name;
             this.Description = description;
             this.Brand = brand;
+            this.ImageUrl = imageUrl;
             this.Price = price;
         }
 
